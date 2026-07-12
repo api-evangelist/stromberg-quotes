@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.stromberg-api.de/
 common:
+  - type: DomainSecurity
+    url: security/stromberg-quotes-domain-security.yml
   - type: Website
     url: https://www.stromberg-api.de/
   - type: PublicAPIsListing
